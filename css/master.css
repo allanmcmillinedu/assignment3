@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    color: #b22222;
+    margin-top: 75px;
+}
+td {
+    padding: 20px;
+}
+table {
+    box-shadow: 10px 5px 5px #ddd;
+    font-size: 20px;
+}
+.th1,
+.th2
+ {
+    background: #b22222;
+    color: #fbb;
+    width:300px;
+}
+.thv {
+    background: #ddd;
+}
+.tdd,
+.th2 {
+    text-align: right;
+}
+.thv,
+.th1 {
+    height: 75px;
+}
+.thv,
+.tdd {
+    border-bottom: 1px solid #ccc;
+}
+.tdd {
+    font-weight: bold;
+}
