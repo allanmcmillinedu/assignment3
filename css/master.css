@@ -16,7 +16,7 @@ table {
 .th2
  {
     background: #b22222;
-    color: #fbb;
+    color: #E9BDBC;
     width:300px;
 }
 .thv {
@@ -30,9 +30,11 @@ table {
 .th1 {
     height: 75px;
 }
-.thv,
-.tdd {
+.thv {
     border-bottom: 1px solid #ccc;
+}
+.tdd {
+    border-bottom: 1px solid #ddd;
 }
 .tdd {
     font-weight: bold;
